@@ -1,0 +1,13 @@
+*.log
+*.pyc
+__pycache__
+downloads/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
